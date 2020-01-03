@@ -6,7 +6,7 @@ With my keen interest in football and in particular the Barclay's Premier League
 ## Results
 This is based on data for the past 10 full seasons of the BPL, only for referees with at least 100 games. Most referees consistently call more fouls on the away team throughout their matches.
 
-![Visualisation](https://imgur.com/a/NQdyrKi)
+![](https://github.com/junwenleong/ggplot2/blob/master/EPL%20A-H%20fouls%20ratio/Rfoulsratio.png)
 
 Although one might jump to the conclusion that this is direct evidence that most referees are biased and the atmosphere of the home crowd sways foul decisions in their team's favour, there could also be other confounders. For instance,it is not uncommon to see away teams set up more defensively (especially Mourinho-esque for weaker teams that visit the stadiums of the bigger clubs), meaning the home team carries more of the possession and attacking onus, resulting in more fouls from the more defensive away team.
 One interesting observation is that Anthony Taylor seems to consistently call more fouls on the home team than the away team, something in contrast to most of his colleagues.
