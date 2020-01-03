@@ -19,5 +19,7 @@ This dataset contains data for last 10 seasons of English Premier League includi
 
 ## Used resources/packages:
 Tidyverse (dplyr and piping operations for efficiency and code clarity)
+
 ggplot2
+
 ggrepel
