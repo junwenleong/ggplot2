@@ -16,3 +16,8 @@ I produced the plot by first extracting the data from the source (explained belo
 
 ## Dataset:
 This dataset contains data for last 10 seasons of English Premier League including the current season. The data is updated on weekly basis via Travis-CI. The dataset is sourced from http://www.football-data.co.uk/ website and contains various statistical data such as final and half time result, corners, yellow and red cards etc.
+
+## Used resources/packages:
+Tidyverse (dplyr and piping operations for efficiency and code clarity)
+ggplot2
+ggrepel
