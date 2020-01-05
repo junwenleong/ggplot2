@@ -1,4 +1,4 @@
-# Do some referees hold back their red cards?
+# Do some referees hold back on their red cards?
 ## Preface
 With some English Premier League referees notorious for card-giving and drama (Mike Dean or Mark Clattenburg) and some quite the opposite (Kevin Friend is known for holding back on his cards), I created a ggplot2 visualisation to compare the referees' Red/Yellow card ratios.
 
