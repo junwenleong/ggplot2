@@ -1,7 +1,7 @@
 # NUS Graduate Employment Survey (GES) versus 10% entrance Indicative Grade Profile (IGP)
 
 ## Preface
-This plot was made to analyse the relation between difficulty of entrance (with respect to A Level score) to starting pay for majors in NUS.
+This plot was made to analyse the relationship between difficulty of entrance (with respect to A Level score) to starting pay for majors in NUS.
 
 ## Results
 There is a visibly strong positive linear correlation between the two variables. Apart from a few outliers like Accountancy and Science, most of the majors fell in the "harder to enter and higher starting pay" or "easier to enter and lower starting pay" regions. This does make logical sense as more students would be attracted to courses with greater remuneration and thus, a higher demand for slots into the course leading to upwards pressure on its entrace IGP.
