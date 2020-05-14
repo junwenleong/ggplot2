@@ -29,7 +29,7 @@ I produced the plot by first extracting the data from the source (explained belo
 ## Dataset
 Data was taken from MOE at: https://www.moe.gov.sg/docs/default-source/document/education/post-secondary/files/web-publication-nus-ges-2019.pdf and from NUS at: http://www.nus.edu.sg/oam/undergraduate-programmes/indicative-grade-profile-(igp)
 
-Some footnotes copy and pasted from their report: 
+Some footnotes extracted from the report: 
 " 6. Data on law, medicine and pharmacy graduates is obtained from a follow-up survey on 2018 graduates after they have completed their
 one-year practical law course/pupillage/housemanship/first-year residency/practical training. Data on architecture graduates is
 obtained from a follow-up survey on 2016 architecture graduates after they have completed their practical training.
