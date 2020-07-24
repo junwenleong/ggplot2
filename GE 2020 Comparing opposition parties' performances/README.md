@@ -10,7 +10,7 @@ The results of the 2020 GE have been debated and discussed quite widely, but one
 
 - As can be seen, there are no large outliers from the trend and one can at first glance make the inference that PAP-won wards tended to have greater higher rejected vote percentage, as compared to opposition-won wards/wards that had high opposition vote shares leading to close fights (eg. East Coast, West Coast). Interestingly, it is often said that in the older generation, there has been a long-standing myth of people being afraid of voting against the incumbent and although this data shows a correlation for that, the sample size could be too small to make any concrete conclusions (there are a limited number of GRCs/SMCs anyway).
 
-![](https://github.com/junwenleong/ggplot2/blob/master/GE2020%20Rejected%20votes%20proportion%20analysis/image.PNG)
+![](https://github.com/junwenleong/ggplot2/blob/master/GE%202020%20Comparing%20opposition%20parties'%20performances/image.PNG)
 
 Some other interesting observations:
 
