@@ -1,16 +1,16 @@
-# NUS Graduate Employment Survey (GES) versus 10% entrance Indicative Grade Profile (IGP)
+# NUS Graduate Employment Survey (GES) versus 10% entrance Indicative Grade Profile (IGP) - 2019
 
 ## Preface
-This plot was made to analyse the relationship between difficulty of entrance (with respect to A Level score) to starting pay for majors in NUS.
+This plot was made to analyse the relationship between difficulty of entrance (with respect to A Level score) to starting renumeration for majors in NUS.
 
 ## Results
 There is a visibly strong positive linear correlation between the two variables. Apart from a few outliers like Accountancy and Science, most of the majors fell in the "harder to enter and higher starting pay" or "easier to enter and lower starting pay" regions. This does make logical sense as more students would be attracted to courses with greater remuneration and thus, a higher demand for slots into the course leading to upwards pressure on its entrace IGP.
 
 ![](https://github.com/junwenleong/ggplot2/blob/master/NUS%20GES%20versus%20IGP/NUSGESplot.PNG)
 
-Now this is one of the kinds of analysis that when interpreting the visualisation there should be in mind a few caveats. Although it is generally advised not to pick a course solely on remuneration, undoubtedly some are willing to sacrifice their happiness working in a field they later find they dislike for a higher pay, and this is their decision.
+This project is built solely for statistical purposes.
 
-That being said, this plot is still interesting enough although with a few important things to note:
+A few important things to note:
 - 10% IGP is not the minimum and may be a good measure, but A lvl Rank points does not solely determine the difficulty of entrance for some courses. Especially for courses with interviews, it is quite often the case where the real difficulty lies in passing the interview and not the RP filtering stage
 - For 85 RP courses, it is obvious that quite a few could, and will be greater than 85 RP. This is just a result of the published IGPs holding GP to be a 'C' grade, a decision made by the universities/MOE.
 - This does not take into account non-normal admission like discretionary admission scheme
